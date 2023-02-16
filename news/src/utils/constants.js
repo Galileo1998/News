@@ -1,0 +1,1 @@
+export const API_HOST = 'http://192.168.10.102:1337';
